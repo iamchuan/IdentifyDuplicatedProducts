@@ -5,3 +5,5 @@ The original idea of this project came from **rcuevass**'s work, [Text Analysis 
 In this repo, we revisited the same problem using Spark machine learning library (TF-IDF, Decison Tree, Pipeline, etc.) and the mix of Spark dataframe and Spark RDD. We also applied Downsampling and Emsemble to deal with the imbalanced data. 
 
 Please download the .html file to check out the output.  
+
+Authors: Chuan Hong & Shu Yan
